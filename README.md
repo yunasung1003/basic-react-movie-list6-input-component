@@ -1,2 +1,2 @@
-# basic-react-movie-list6-input-component
+# basic-react-movie-list1
 Created with CodeSandbox
